@@ -1,4 +1,4 @@
-# Customer Solr Filter for Word Concatenation
+# Custom Solr Filter for Word Concatenation
 
 ## Use case:
 A name "De Vera Michael" which is an European origin should be returned in search results when someone search for "devera".
